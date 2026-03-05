@@ -5,7 +5,7 @@
 <h3 align="center">Software Developer | Web • AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=600&color=F7971E&center=true&vCenter=true&width=700&lines=Full+Stack+Development;Artificial+Intelligence;Cybersecurity+Foundations;Cloud+Computing;Continuous+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=600&color=F7971E&center=true&vCenter=true&width=700&lines=Full+Stack+Development;Artificial+Intelligence;Cloud+Computing;Continuous+Learning" />
 </p>
 
 ---
