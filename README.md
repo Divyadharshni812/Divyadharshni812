@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:1fa2ff&height=200&section=header&text=Divyadharshni%20G&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Software Developer | Web • AI • </h3>
+<h3 align="center">Software Developer | Web • AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=600&color=F7971E&center=true&vCenter=true&width=700&lines=Full+Stack+Development;Artificial+Intelligence;Cybersecurity+Foundations;Cloud+Computing;Continuous+Learning" />
